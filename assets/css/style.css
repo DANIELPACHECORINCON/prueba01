@@ -1,0 +1,21 @@
+body{
+    background-color: #6cc8ec;
+}
+
+.titulo{
+    color:#ccec16;
+    font-size: 50px;
+    text-align: center;
+}
+
+.texto{
+    color: #d80e0e;
+    text-align: center;
+}
+
+.image{
+    width: 300px;
+    height: 150px;
+    display: block;
+    margin: auto;
+}
